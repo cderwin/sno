@@ -1,0 +1,20 @@
+{
+    "stations": [
+        {
+            "id": 0,
+            "name": "Crystal"
+        },
+        {
+            "id": 1,
+            "name": "Mount Baker"
+        },
+        {
+            "id": 2,
+            "name": "Alpental"
+        }
+    ],
+    "mapbox": {
+        "api_key": "pk.eyJ1IjoiY2RlcndpbiIsImEiOiJjaWpwOTh2bXUwMTN1dG9rb2g3Y2NmeWJ6In0.WZwqIUtZ4neCjXMT1YOmYw",
+        "map_style": "mapbox://styles/cderwin/cm3ba2jlp000001rg119ad7h1"
+    }
+}
